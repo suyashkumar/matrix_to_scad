@@ -21,5 +21,5 @@ This is a simple utility that can take a 3D matrix of integers (1s and 0s) and g
 ```
 Prints OpenSCAD code that renders the following:
 
-<img src="example_render.png" />
-It renders upside down, but that can be easily fixed in future iterations. 
+<img src="example_render.png" width=300 />
+It renders upside down, but that's not a huge deal. Can be fixed in furuter iterations.
